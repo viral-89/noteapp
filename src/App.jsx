@@ -77,8 +77,8 @@ const App = () => {
                   alt=""
                   className="w-15 h-10 absolute z-10 top-2"
                 />
-                <div className="w-full h-58 bg-orange-200 rounded-4xl p-4">
-                  <h1 className="text-5xl font-bold">{id + 1}</h1>
+                <div className="w-full h-58 bg-blue-300 rounded-4xl p-4">
+                  <h1 className="text-4xl font-bold">{id + 1}</h1>
                   <h1 className="text-4xl font-semibold text-center my-1">
                     {task.Heading}
                   </h1>
