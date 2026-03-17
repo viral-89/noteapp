@@ -1,9 +1,8 @@
 @import "tailwindcss";
 
-body{
-    padding: 0;
-    margin: 0;
-    color: white;
-    font-family: sans-serif;
-     font-family: "Indie Flower", cursive;
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: "Indie Flower", cursive;
 }
