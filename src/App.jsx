@@ -64,7 +64,7 @@ const App = () => {
           </div>
         </div>
 
-        {/* div for show all task */}
+        {/* div for show all task  */}
         <div className="lg:w-1/2 w-full h-screen lg:border-l-2 border-dashed border-black max-lg:border-t-4 bg-gray-200 flex flex-wrap items-center justify-center p-6 gap-6 overflow-auto">
           {Tasks.map((task, id) => {
             return (
